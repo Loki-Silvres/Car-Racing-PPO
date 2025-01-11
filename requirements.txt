@@ -1,0 +1,3 @@
+"gymnasium[all]"
+"stable-baselines3[extra]"
+typeguard
