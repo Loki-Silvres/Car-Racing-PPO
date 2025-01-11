@@ -17,3 +17,6 @@ python3 src/train.py
 ```bash
 python3 src/eval.py
 ```
+
+## Demo
+[CarRacingV3Demo](https://github.com/user-attachments/assets/742933df-e748-4c3e-a2b6-a03c3adef26d)
