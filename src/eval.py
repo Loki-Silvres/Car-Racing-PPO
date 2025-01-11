@@ -1,7 +1,7 @@
 from stable_baselines3 import PPO
 import gymnasium as gym
 
-model = PPO.load("logs/best_model.zip")
+model = PPO.load("ppo_carracing.zip")
 env = gym.make("CarRacing-v3", continuous=True, render_mode="human")
 obs, _ = env.reset()
 
