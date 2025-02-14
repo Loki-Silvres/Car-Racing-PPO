@@ -1,6 +1,6 @@
 # Car Racing PPO
 
-This repository provides an implementation of the Proximal Policy Optimization (PPO) algorithm tailored for training an agent to master the [CarRacing-v3](https://gym.openai.com/envs/CarRacing-v0/) environment from OpenAI Gym. It aims to offer a straightforward yet powerful setup for both training and evaluating reinforcement learning agents in continuous control tasks.
+This repository provides an implementation of the Proximal Policy Optimization (PPO) algorithm for training an agent to master the [CarRacing-v3](https://gym.openai.com/envs/CarRacing-v0/) environment from OpenAI Gym with StableBaselines3. It aims to offer a straightforward yet powerful setup for both training and evaluating reinforcement learning agents in continuous control tasks.
 
 ## Prerequisites
 
